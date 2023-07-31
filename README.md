@@ -3,8 +3,6 @@ A mount for the oculus quest 2 intended to support eyetrackvr and project babble
 
 ### BOM
 
-hopefully this is a full, accurate list...
-
 | item                                               | qty |
 | :---                                               | :---         |
 | m3x8 SHCS                                          | 18           |
