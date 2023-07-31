@@ -19,8 +19,8 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 | [antennae](https://www.aliexpress.com/item/1005004005700341.html)                                                                            | 3            |
 | [v4 led pcbs (comes with 8 pcbs, 9 are needed for eye tracking and mouth tracking, bug prohurtz to let us buy more)](https://store.eyetrackvr.dev/products/v4-mini-some-assemblly-required)                                                         | 9            |
 | [v4 driver board (solder version)](https://store.eyetrackvr.dev/products/v4-mini-some-assemblly-required)                                    | 1            |
-| [OV2640 160deg night vision cameras 75mm cable](https://www.aliexpress.com/item/1005003040149873)                                            | 2            |
-| [OV2640 120deg camera with ir filter removed 75mm cable](https://www.aliexpress.com/item/1005003040149873)                                   | 1            |
+| [OV2640 160deg night vision cameras 75mm cable](https://www.aliexpress.com/item/1005003040149873.html)                                            | 2            |
+| [OV2640 120deg camera with ir filter removed 75mm cable](https://www.aliexpress.com/item/1005003040149873.html)                                   | 1            |
 
 ## credits
 
