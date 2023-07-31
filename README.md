@@ -4,7 +4,7 @@
 | :---: | :---: | :---: |
 | ![whole_system](./images/whole%20system.png) | ![electronics box](./images/electronics%20box.png) | ![back](./images/back.png) |
 
-A mount for the oculus quest 2 intended to support eyetrackvr and project babble with zero glue and minimal visible cables
+A mount for the oculus quest 2 intended to support [EyeTrackVR](https://github.com/EyeTrackVR/EyeTrackVR) and [Project Babble](https://github.com/SummerSigh/ProjectBabble) with zero glue and minimal visible cables
 
 # THIS PROJECT IS IN BETA AND WILL BE UPDATED OVER TIME
 
