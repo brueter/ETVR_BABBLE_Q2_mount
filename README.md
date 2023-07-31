@@ -13,7 +13,7 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 
 | item                                               | qty |
 | :---                                               | :---         |
-| [m3x8 SHCS bolts](https://www.amazon.com/uxcell-M3x8mm-Thread-Stainless-Socket/dp/B01MCW5GM3/)                                               | 18           |
+| [m3x8 SHCS bolts](https://www.amazon.com/uxcell-M3x8mm-Thread-Stainless-Socket/dp/B01MCW5GM3/)                                               | 20           |
 | m2x8 screw                                              | 1           |
 | [m3 heatset](https://www.amazon.com/Threaded-Knurled-Embedment-Compatible-Switchwire/dp/B0B398W1CC/)                                         | 18           |
 | [espcam modules](https://www.aliexpress.com/item/1005004005700341.html)                                                                      | 3            |
