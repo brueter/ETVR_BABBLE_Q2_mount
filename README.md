@@ -22,3 +22,10 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 | 160deg night ver cameras                           | 2            |
 | 120deg  cameras with ir filter removed             | 1            |
 
+## credits
+
+- ~[front brackets](https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Prohurtz)
+
+- [side esp mounts](!https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Arkfall)
+
+- [quest 2 3d scan](!https://github.com/RedHawk989) (via discord)
