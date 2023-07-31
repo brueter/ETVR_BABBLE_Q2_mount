@@ -24,8 +24,8 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 
 ## credits
 
-- ~[front brackets](https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Prohurtz)
+- ![front brackets](https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Prohurtz)
 
-- [side esp mounts](!https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Arkfall)
+- ![side esp mounts](https://github.com/EyeTrackVR/EyeTrackVR-Hardware/tree/main/3d_Printed_Mounts/Quest_2/Arkfall)
 
-- [quest 2 3d scan](!https://github.com/RedHawk989) (via discord)
+- ![quest 2 3d scan](https://github.com/RedHawk989) (via discord)
