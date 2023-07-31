@@ -15,3 +15,5 @@ A mount for the oculus quest 2 intended to support eyetrackvr and project babble
 | v4 driver board                                    | 1            |
 | 160deg night ver cameras                           | 2            |
 | 120deg  cameras with ir filter removed             | 1            |
+
+[`while system`](./images/whole system.png)
