@@ -14,7 +14,7 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 | item                                               | qty |
 | :---                                               | :---         |
 | m3x8 SHCS                                          | 18           |
-| m3 heatset                                         | 18           |
+| [m3 heatset](https://www.amazon.com/Threaded-Knurled-Embedment-Compatible-Switchwire/dp/B0B398W1CC/)                                         | 18           |
 | espcam modules                                     | 3            |
 | antenna                                            | 3            |
 | v4 led pcbs                                        | 9            |
