@@ -15,7 +15,6 @@ A mount for the oculus quest 2 intended to support two [EyeTrackVR](https://gith
 | :---                                               | :---         |
 | [m3x8 SHCS bolts](https://www.amazon.com/uxcell-M3x8mm-Thread-Stainless-Socket/dp/B01MCW5GM3/)                                               | 20           |
 | m2x8 screw                                              | 1           |
-| [m3 heatset](https://www.amazon.com/Threaded-Knurled-Embedment-Compatible-Switchwire/dp/B0B398W1CC/)                                         | 18           |
 | [espcam modules](https://www.aliexpress.com/item/1005004005700341.html)                                                                      | 3            |
 | [antennae](https://www.aliexpress.com/item/1005004005700341.html)                                                                            | 3            |
 | [v4 led pcbs (comes with 8 pcbs, 9 are needed for eye tracking and mouth tracking, bug prohurtz to let us buy more)](https://store.eyetrackvr.dev/products/v4-mini-some-assemblly-required)                                                         | 9            |
